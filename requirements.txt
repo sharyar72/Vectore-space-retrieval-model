@@ -1,0 +1,4 @@
+tkintertable
+pickle5
+nltk
+regex
